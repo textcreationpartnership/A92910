@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad message from Heaven threatning destruction to England: except speedily prevented by reall repentance and amendment of life.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92910</idno>
+            <idno type="STC">Wing S253</idno>
+            <idno type="STC">Thomason E1182_10</idno>
+            <idno type="STC">ESTC R208162</idno>
+            <idno type="EEBO-CITATION">99867141</idno>
+            <idno type="PROQUEST">99867141</idno>
+            <idno type="VID">119432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119432)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1182[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad message from Heaven threatning destruction to England: except speedily prevented by reall repentance and amendment of life.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Vere, and are to be sold at his shop at the upper end of the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119432:1" rendition="simple:additions"/>
+            <p>A SAD MESSAGE FROM HEAVEN Threatning Deſtruction to
+<hi>ENGLAND:</hi> EXCEPT Speedily prevented by reall Repentance and amend<g ref="char:EOLhyphen"/>ment of LIFE.</p>
+            <p>
+               <q>
+                  <bibl>Prov. 28.2.</bibl>
+                  <p>For the Tranſgreſſion of a Land, many are the Princes thereof.</p>
+               </q> But,
+<q>
+                  <p>Woe to them for their day is comming, the time of their Viſitation,</p>
+                  <bibl>Jer. 50.27.</bibl>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Vere,</hi> and are to be ſold at his ſhop at the upper end of the <hi>Old-Bayley,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119432:2"/>
+            <pb n="1" facs="tcp:119432:2"/>
+            <head>Symptomes of Ruin, OR, The Sword and Famin, the At<g ref="char:EOLhyphen"/>tendants of Oppreſſion.</head>
+            <p>VVHatſoever things wer written afore<g ref="char:EOLhyphen"/>times wer written for our learning, <hi>Rom. 15.4.</hi>
+            </p>
+            <p>
+               <hi>But,</hi>
+            </p>
+            <p>
+               <note n="a" place="bottom">Ier. 6.10,11,13.</note> To whom ſhall I ſpeak and give warn<g ref="char:EOLhyphen"/>ning that they may hear (ſaith the Prophet.) Behold, their eares are uncircumciſed they cannot hearken. The word of the Lord is to them a reproach, they have no delight in it. <hi>11</hi> Therefore am I full of the fury of the Lord, I am weary with holding in, I will powre it out upon the children a<g ref="char:EOLhyphen"/>bread. <hi>13</hi> For from the leaſt of them even to the greateſt of them, every one is given to covetouſneſſe, And from the Prophet to the Prieſt every one dealeth falſly
+<note n="d" place="bottom">Iſa. 1.23.</note> A won<g ref="char:EOLhyphen"/>derfull and horrid thing is committed in the land, Thy Princes are rebellious and com<g ref="char:EOLhyphen"/>panions of Theives, Every one loveth gifts and followeth after rewards.
+<note n="e" place="bottom">Ier. 22.27.</note> Their Prin<g ref="char:EOLhyphen"/>ces in the middeſt thereof are like Wolves ravening the prey, to ſhed blood and deſtroy<pb n="2" facs="tcp:119432:3"/>ſoules, to get diſhoneſt gain.
+<note n="f" place="bottom">Micha 2.2.</note> They covet fields, and take them by violence; and houſes and take them away, ſo they oppreſſe a man and his houſe: Even a man and his heritage.
+<note n="g" place="bottom">Mark 12.40.</note> Which devour widdows houſes, and for pretences make long prayers.</p>
+            <p>
+               <hi>Yea thus ſaith the Lord,</hi>
+               <note n="h" place="bottom">Ezek. 33.31.</note> They come unto thee as the people commeth, and they ſit before thée as my people, and they heare thy words but they will not do them, for with their mouth they ſhew much love, but their heart goeth after their covetouſneſſe.
+<note n="i" place="bottom">Amos 3.10.</note> For they know not to doe right ſaith the Lord, who ſtore up violence and robery in their Palaces.
+<note n="k" place="bottom">Pſal. 14.4.</note> Have all the workers of ini<g ref="char:EOLhyphen"/>quity no knowledge? Who eate up my peo<g ref="char:EOLhyphen"/>ple as they eate bread, and call not upon the Lord
+<note n="l" place="bottom">Pſal. 53.4.</note> Behold yée faſt for ſtrife and debate, and to ſmite with the fiſt of wickedneſſe, yée ſhall not faſt as ye do this day, to make your voyces to be heard on high.
+<note n="m" place="bottom">Hoſ. 9.15.</note> For all their princes are reuolters.
+<note n="n" place="bottom">Iſa, 56.11.</note> They are greedy dogs which can never have enough.
+<note n="o" place="bottom">Hag. 1.7.</note> 
+               <hi>There<g ref="char:EOLhyphen"/>fore</hi> Thus ſaith the Lord of hoſts, Conſider your doings.
+<note n="p" place="bottom">Iſa. 58.5.</note> Is it ſuch a faſt that I have choſen, will ye call this a faſt? and an ac<g ref="char:EOLhyphen"/>ceptable day to the Lord?
+<note n="q" place="bottom">Amos 5.16.21.22.</note> Therefore the Lord the God of Hoſtes, the Lord ſaith thus,<pb n="3" facs="tcp:119432:3"/>I hate and deteſt your Faſt dayes, and I will not ſmell in your Solemn Aſſemblies, Though you offer me burnt offerings, and your meat offerings, I will not accept them.
+<note n="r" place="bottom">Iſa. 66.3.</note> He that killeth an Oxe, is as if he ſlew a man, He that ſacrificeth a lambe, is as if hée cut off a dogges neck: He that offereth an offering, as if hee offered ſwines blood, And he that burneth Incence, as if he bleſ<g ref="char:EOLhyphen"/>ſed an Idol.
+<note n="ſ" place="bottom">Iſa. 1.15.</note> And when yee ſpread forth your hands, I will hide mine eyes from you, yea, when ye make many prayers I will not heare, your hands are full of blood.
+<note n="t" place="bottom">Prov. 2.13,14.</note> Who leaue the pathes of uprightneſſe to walke in the wayes of darkeneſſe
+<note n="u" place="bottom">A<g ref="char:EOLhyphen"/>mos 5.23,24.</note> Who rejoyce to do evil, and delight in the froward<g ref="char:EOLhyphen"/>neſſe of the wicked, <hi>Therefore,</hi> Take away from mee the noyſe of your lying, for I will not heare the melody of your Viols.</p>
+            <p>But let Iudgement runne downe as wa<g ref="char:EOLhyphen"/>ter, and righteouſneſſe as a mighty ſtreame.
+<note n="w" place="bottom">Iſa. 58.6,7.</note> Is not this the faſt that I have choſen to loſe the bonds of wickedneſſe, to undoe the heavy burdens, and to let the oppreſſed goe frée, and that ye breake every yoake. <hi>7</hi> Is it not to deale thy bread to the hungry, and that thou bring the poore that are caſt out in<g ref="char:EOLhyphen"/>to thy houſe, and when thou ſeeſt the naked that thou cover him.
+<note n="x" place="bottom">Mat. 9.13.</note> Goe ye and learne what that meaneth, <hi>ſaith our Saviour,</hi> I wil<pb n="4" facs="tcp:119432:4"/>have mercy and not ſacrifice. <hi>For</hi>
+               <note n="y" place="bottom">Pſ. 25.10.</note> All the wayes of God are mercy and truth.
+<note n="z" place="bottom">Pro. 14.2.</note> He that walketh in his uprightneſſe feareth the Lord, But he that is perverſe in his wayes diſpiſeth him
+<note n="a" place="bottom">Ezek. 2.3 4.</note> 
+               <hi>But</hi> They and their fathers have tranſgreſſed againſt mee, even to this very day, for they are impudent children and ſtif-hearted.
+<note n="b" place="bottom">Deut. 32 5.</note> They have corrupted them<g ref="char:EOLhyphen"/>ſelves, their ſpot is not the ſpot of his child<g ref="char:EOLhyphen"/>ren, they are a perverſe and crooked Gene<g ref="char:EOLhyphen"/>ration.
+<note n="c" place="bottom">Iſa 66.3.</note> Yea, they have choſen their own wayes, &amp; their ſoules delights in their abo<g ref="char:EOLhyphen"/>minations.
+<note n="d" place="bottom">Ier. 18.12 13.</note> And they ſay—But we will walke after out own doings, and we will e<g ref="char:EOLhyphen"/>very one doe the imaginations of his evill heart. <hi>13</hi> Therefore thus ſaith the Lord, aske ye now amongſt the heathen who hath heard ſuch things.
+<note n="*" place="bottom">Iſa. 1.2</note> Heare Oh Hearens and give eare Oh Earth, I have nouriſhed children, and they have rebelled againſt me.
+<note n="*" place="bottom">Iſa. 5.3 4</note> Iudge I pray you betwéene me and my Vineyard: What could I have done more for them.
+<note n="e" place="bottom">Pſ. 107.6.</note> When they cryed unto the Lord in their trouble, hee delivered them out of their diſtreſſe.
+<note n="f" place="bottom">Mat. 11.21.</note> And if the mighty workes which had béen done in you had béen done in <hi>Tyer</hi> and <hi>Sydon</hi> they would have repented long agoe in ſackcloath and aſhes.
+<note n="g" place="bottom">Iob. 37.14.</note> Har<g ref="char:EOLhyphen"/>ken unto this, conſider the wondrous works<pb n="5" facs="tcp:119432:4"/>of God.
+<note n="h" place="bottom">Hag. 1.7.</note> 
+               <hi>And</hi> Conſider your doings.
+<note n="l" place="bottom">Deut. 32.6.</note> Do ye thus requite the Lord O fooliſh people and unwiſe?
+<note n="m" place="bottom">Ier. 5.29.</note> Shall I not viſit for theſe things ſaith the Lord? ſhall not my ſoule be aveng<g ref="char:EOLhyphen"/>ed on ſuch a Nation as this?
+<note n="n" place="bottom">Deut. 23.25.</note> I will heap miſeries upon them, I will ſpend mine ar<g ref="char:EOLhyphen"/>rows upon them.
+<note n="o" place="bottom">Ier. 13.14 25.</note> And I will daſh them one againſt another, the father and ſonne toge<g ref="char:EOLhyphen"/>ther ſaith the Lord, I will not pitty nor ſpare nor have merry but deſtroy them. <hi>25</hi> This is thy lot, the portion of thy meaſure from me ſaith the Lord, Becauſe thou haſt forgot<g ref="char:EOLhyphen"/>ten me, and truſted in falſehood
+<note n="p" place="bottom">Ier. 11.22.</note> Therefore thus ſaith the Lord of Hoſts, Behold I will puniſh them, their young men ſhal dye by the ſword, and their ſons and their daughters ſhal dye by famine.
+<note n="q" place="bottom">Eze. 7.27.</note> And the hands of the peo<g ref="char:EOLhyphen"/>ple of the land ſhall be troubled, and I will doe unto them after their wayes, and ac<g ref="char:EOLhyphen"/>cording to their doings will I judge them.
+<note n="r" place="bottom">Iſa. 3.11.</note> Wo to the wicked it ſhall bee evill with him, for the reward of his hands ſhall be gi<g ref="char:EOLhyphen"/>ven him.
+<note n="ſ" place="bottom">Pſ. 7,16.</note> His miſcheife ſhall returne upon his own head, and his violent dealing ſhall come down upon his own pate.</p>
+            <p>
+               <note n="t" place="bottom">Deut. 32.41,42.</note> If I whet my glittering ſword, and mine hand take hold on indignation. I will render vengeance to mine Enemies, I I will reward them that hate me. <hi>24.</hi> I will make mine arrows drunk with blood, And<pb n="6" facs="tcp:119432:5"/>my ſword, ſhall devoure fleſh.
+<note n="u" place="bottom">1 Sam. 15.33.</note> And as thy ſword hath made women childleſſe, ſo ſhall thy mother be childles among women.
+<note n="w" place="bottom">Rev. 13.9,10.</note> If any man have an eare to heare let him heare. <hi>10</hi> Hee that leadeth into captivity, ſhall goe into captivity, And hee that killeth with the ſword, ſhall be killed with the ſword
+<note n="x" place="bottom">Mich. 7.13.</note> The land ſhall be deſolate, becauſe of them that dwell therein for the fruit of their do<g ref="char:EOLhyphen"/>ings.
+<note n="y" place="bottom">Pro. 12.14.</note> And the recompence of a mans hands ſhall be rendered unto him.
+<note n="z" place="bottom">Iudg. 1.6,7,</note> And
+<hi>Adonibe<g ref="char:EOLhyphen"/>zeck</hi> ſaid threeſcore and ten Kings having their thumbes and their great toes cut off, gathered their meate under my table, as I have don, ſo God hath requited me.</p>
+            <p>
+               <note n="a" place="bottom">1 Sam. 7.9 10,11,12.</note> And
+<hi>Nathan</hi> ſaid unto <hi>David. 9</hi> Thou haſt killed <hi>Vriah</hi> the <hi>Hittite</hi> with the ſword and haſt taken his wife to be thy wife, and haſt ſlaine him with the ſword of the child<g ref="char:EOLhyphen"/>ren of <hi>Ammon. 10</hi> Therefore the ſword ſhall never depart from thy houſe. <hi>11</hi> And I will take thy wives before thine eyes, and give them unto thy neighbour, and he ſhall lye with thy wives in the ſight of the ſunne. <hi>12</hi> Thou diddeſt it ſecretly, but I will doe it before all Iſrael, and in the ſight of the ſun. <hi>b</hi> For there is nothing hid that ſhall not be manifeſted, neither any thing kept ſe<g ref="char:EOLhyphen"/>cret but that it ſhall come abroad
+<note n="c" place="bottom">1 Cor. 3.8.</note> And e<g ref="char:EOLhyphen"/>very man ſhall receive his owne reward ac<g ref="char:EOLhyphen"/>cording<pb n="7" facs="tcp:119432:5"/>to his own labour.</p>
+            <p>
+               <note n="d" place="bottom">Pſ. 18.25,26.</note> With the upright man thou wilt ſhew thy ſelfe upright, and with the froward thou wilt ſhew thy ſelf froward,
+<note n="e" place="bottom">Mat. 7.2.</note> And with what meaſure you mere it ſhall be meaſured to you againe.
+<note n="f" place="bottom">Gen, 9.6.</note> Whoſo ſheddeth mans blood, by man ſhall his blood be ſhed, for in the Image of God made he man.
+<note n="g" place="bottom">Mat. 26.52.</note> And Ieſus ſaid—put up againe thy ſword into his place, for <hi>All they that take the ſword ſhall periſh with the ſword.</hi>
+               <note n="h" place="bottom">Jam. 4.1,2,3,4.</note> From whence commeth wars and fightings among you come they not hence? even of your luſts.
+<hi>2</hi> Yee luſt and have not, ye kill and deſire to have. <hi>3</hi> That ye may ſpend it on your luſts. <hi>4</hi> Ye adulte<g ref="char:EOLhyphen"/>rers and adultereſſes Know ye not that the friendſhip of the world is enmity with God? <hi>Therefore</hi>
+               <note n="i" place="bottom">Pſ. 68.30.</note> ſcatter thou the people that de<g ref="char:EOLhyphen"/>light in war, <hi>yea,</hi> Thus ſaith the Lord.
+<note n="k" place="bottom">Amos 9 1.</note> I will ſlay the laſt of them with the ſword, he that fléeth of them ſhall not flée away, and he that eſcapeth of them ſhall not bee deli<g ref="char:EOLhyphen"/>vered. <hi>For</hi>
+               <note n="*" place="bottom">Ezek. 6.12.</note> He that remaineth and is be<g ref="char:EOLhyphen"/>ſeiged ſhall die by the famine, thus will I accompliſh my fury upon them.
+<note n="l" place="bottom">Mic. 2.1,2,3.</note> And now Oh ye Princes this commandement is for you; if ye will not heare to give glory to my name, ſaith the Lord of Hoſtes, I will e<g ref="char:EOLhyphen"/>ven ſend a curſe upon your bleſſings <hi>y<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, I have curſed them already,</hi> Becauſe yee did <pb n="8" facs="tcp:119432:6"/>not lay it to heart. <hi>3</hi> Behold I will corrupt your ſéed and ſpread dung in your faces e<g ref="char:EOLhyphen"/>ven the dung of your ſolemn feaſts
+<note n="m" place="bottom">Hoſ. 9.9.</note> For they have déeply corrupted themſelues as in the dayes of <hi>Gibiah</hi> (Iudges
+<hi>1</hi>) Therfore he will remember their iniquities he will viſit their ſinnes. <hi>For,</hi>
+               <note n="n" place="bottom">Job 35.9.</note> by reaſon of multi<g ref="char:EOLhyphen"/>tudes of oppreſſione they make the oppreſſed to cry, they cry out by reaſon of the arme of the mighty.
+<note n="o" place="bottom">Job. 20.19</note> Becauſe he hath oppreſſed and forſaken the poore, becauſe he hath violently taken away an houſe which he built not.
+<note n="p" place="bottom">Pſ. 94.9.10.</note> He that planted the eare ſhall not he heare, he that formed the eye ſhall he not ſee? He that chaſtiſeth the Heathen ſhall he not correct? Hee that teacheth man knowledge, ſhall not he know?
+<note n="q" place="bottom">Iſa. 49.26.</note> For the oppreſſion of the poore, and for the ſighing of the needy I will ariſe ſaith the Lord.
+<note n="r" place="bottom">Pſ. 12.5.</note> And I will féede them that oppreſſed thée with their own fleſh and they ſhall be drunke with their owne blood as with new wine.
+<note n="*" place="bottom">Iſa. 10.13,14</note> For he ſaith by the ſtrength of my hand have I done it, &amp; by my wiſdome I have removed the bounds of the people, and have robbed their treaſuries, &amp; I haue put down the Inhabitants of the land, as a valiant man. <hi>14</hi> And my hands hath found as a neſt the riches of the people, and as one gathereth egges that are left have I gathered all, <hi>&amp;c.</hi>
+               <note n="*" place="bottom">Hab. 1.16.</note> Thus they ſa<g ref="char:EOLhyphen"/>crifice to their net, and burne incenſe unto <pb n="9" facs="tcp:119432:6"/>their Drag, Becauſe by them their portion is fat. <hi>Therefore</hi>
+               <note n="ſ" place="bottom">Ezek. 21.9,10,11,28,30,31.</note> Thus ſaith the Lord a ſword a ſword is ſharpened and four biſhed.
+<hi>10</hi> It is ſharpened to make a ſore ſlaughter, it is fourbiſhed that it may glitter. <hi>11</hi> And it is fourbiſhed to give into the hands of the ſlayer. <hi>28</hi> For the ſlaughter it is fourbiſh<g ref="char:EOLhyphen"/>ed, to conſume becauſe of the glitter<g ref="char:EOLunhyphen"/>ing. <hi>30</hi> I will judge thée in the land of thy nativity. <hi>31</hi> And I will powre out mine indignation upon thée, I will blow a<g ref="char:EOLhyphen"/>gainſt thée in the fire of my wrath, and de<g ref="char:EOLhyphen"/>liver thée into the hands of brutiſh men, and skilfull to deſtroy.
+<note n="t" place="bottom">Deut. 28.10.</note> A Nation of a fierce countenance which ſhall not regard the per<g ref="char:EOLhyphen"/>ſon of the old, nor ſhew favour to the young.
+<note n="u" place="bottom">Ezek. 21 32.</note> 
+               <hi>For,</hi> Thou ſhalt be as fuell to the fire, thy blood ſhall be in the middeſt of the Land.</p>
+            <p>
+               <note n="w" place="bottom">Iſa. 10.5,6.</note> Oh
+<hi>Aſſirian</hi> the rodde of mine anger, and the ſtaffe in their hand is mine indigna<g ref="char:EOLhyphen"/>tion. <hi>6</hi> I will ſend him againſt an hypocri<g ref="char:EOLhyphen"/>ticall Nation And againſt the people of my wrath will I giue him a charge to take the ſpoyle, and to take the prey, and to tread them downe like mire in the ſtréets.
+<note n="x" place="bottom">Pſ. 149.8.</note> To bind their Kings with chaines, and their no<g ref="char:EOLhyphen"/>bles with links of iron.
+<note n="y" place="bottom">Hoſ. 4.1,2,3,9.</note> For the Lord hath a controuerſie with the Inhabitants of the land, becauſe there is no truth nor mercy, nor knowledge of God in the land. <hi>2</hi> By ſwearing, and lying, and kiling and ſtealing<pb n="10" facs="tcp:119432:7"/>and committing adultery, they breake out, and blood toucheth blood. <hi>3.</hi> Therefore ſhall the land mourn, and all that dwelleth therein ſhall anguiſh. <hi>9</hi> And there ſhall be like peo<g ref="char:EOLhyphen"/>ple like Prieſts, and I will puniſh them for their ways, &amp; reward them for their doings.
+<note n="z" place="bottom">Jer. 5.31.</note> The Prophets propheſie falſly, and the Prieſts beare rule by their means, and my people loves to have it ſo? But what will ye doe in the end thereof.
+<note n="a" place="bottom">Jer. 14.14.</note> The Prophets propheſie lies in my name, I ſend them not, they propheſie unto you a falſe viſion and devination and the deceit of their own heart,
+<note n="b" place="bottom">Jer. 7.8,9,10,11.</note> Behold ye truſt in lying words that can<g ref="char:EOLhyphen"/>not profit. <hi>9</hi> Will yée ſteale, murder, and commit adultery, and ſweare falſly, and walk after other Gods (for ye cannot ſerve God and Mammon, <hi>Mat. 6.24.</hi>) <hi>10</hi> And come and ſtand before me in this houſe, which is cal<g ref="char:EOLhyphen"/>led by my name, and ſay wée are delivered to do all theſe abominations. <hi>11</hi> Is this houſe which is called by my name, become a den of théeves in your eyes, <hi>Behold,</hi> I have ſéen it ſaith the Lord.
+<note n="c" place="bottom">Jer. 25.29.</note> Therefore I will call for a ſword.
+<note n="d" place="bottom">Iſa: 34.5.</note> My ſword ſhall be hathed in Hea<g ref="char:EOLhyphen"/>ven, it ſhall come downe upon the people of my curſe to judgement.</p>
+            <p>
+               <note n="e" place="bottom">Iſa. 17.10.14.</note> And becauſe thou haſt forgotten the God of thy ſalvation, and haſt not béen mindfull of the rock of thy ſtrength, therfore behold at e<g ref="char:EOLhyphen"/>ventide trouble, and before the morning he<pb n="11" facs="tcp:119432:7"/>is not, this is the portion of them that ſpoile us, and the lot of them that rob us.
+<note n="f" place="bottom">Zeph. 13.13,</note> Their goods ſhall become a booty, and their houſes a deſolation, they ſhall alſo build houſes and net inhabit them, and they ſhall plant vine<g ref="char:EOLhyphen"/>yards but not drink the wine thereof. <hi>For</hi>
+               <note n="g" place="bottom">Ier. 51.56.</note> The Lord God of recompences ſhall ſurely requite.</p>
+            <p>
+               <note n="h" place="bottom">Iſa. 29.13,14,9,10.</note> Wherefore thus ſaith the Lord, for<g ref="char:EOLhyphen"/>aſmuch as this people draw néer unto me with their mouth, and with their lips do ho<g ref="char:EOLhyphen"/>nour me, but have removed their heart from me, and their feare towards me is taught by the precepts of men.
+<hi>14</hi> Therefore behold I will proceed to do a marvelous worke a<g ref="char:EOLhyphen"/>mong this people, even a mervelous work and a wonder, for the wiſdome of their wiſe men ſhall periſh, and the underſtanding of their prudent men ſhall be hid.</p>
+            <p>
+               <hi>9</hi> Stay your ſelves and wonder, cry yée out and ſay, they are drunken but not with wine, they ſtagger but not with ſtrong drinke. <hi>10</hi> For the Lord hath poured out upon them the ſpirit of déepe ſleepe, and hath cloſed your eyes, your Prieſts and your Rulers hath hée covered.
+<note n="i" place="bottom">Tit. 3.3.</note> 
+               <hi>For they are</hi> fooliſh, diſobedient, deceived, ſerving divers luſts and pleaſures. living in ma<g ref="char:EOLhyphen"/>lice and envy, hateful and hating one ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>
+               <pb n="12" facs="tcp:119432:8"/>But if yee bite and deuoure one another, Take héede ye be not deuoured one of ano<g ref="char:EOLhyphen"/>ther, <hi>for thus ſaith the Lord,</hi> I will call for a ſword, and euery mans ſword ſhall be a<g ref="char:EOLhyphen"/>gainſt his brother.</p>
+            <p>
+               <hi>For</hi> the ſword ſhall deuoure from the one end of the land euen unto the other end of the land and no fleſh ſhal haue peace.
+<note n="m" place="bottom">Ja. 5.1,2,3,4,5.</note> Go to now ye rich men wéep and houle for your miſeries that ſhall come upon you.
+<hi>2</hi> Your riches are corrupted, and your garments motheaten. <hi>3</hi> Your gould and ſilver is can<g ref="char:EOLhyphen"/>kered, and the ruſt of them ſhall be a witneſſe againſt you, and ſhall eate your fleſh as it were fire, ye have heaped treaſures toge<g ref="char:EOLhyphen"/>ther for the laſt day. <hi>4</hi> Behold the hire of the labourers which have reaped down your fields which is of you kept by fraud, cryeth, and the cryes—are entered into the eares of the Lord of Sabbath. <hi>5</hi> yee have lived on earth and béen wanton, ye have nouriſhed your hearts as in the day of ſlaughter. <hi>Ther<g ref="char:EOLhyphen"/>fore,</hi>
+               <note n="n" place="bottom">Ezek. 7.5,6,17,18,19.</note> Thus ſaith the Lord an evill an only evil behold is come. <hi>6</hi> An end is come it wai<g ref="char:EOLhyphen"/>teth for thée, behold it is come. <hi>17</hi> Al hands ſhall be féeble, and all knées ſhall be as weak as water. <hi>18</hi> They ſhall gird themſelves with ſackcloath, horrour ſhall cover them And ſhame ſhall be upon all faces, and bald<g ref="char:EOLhyphen"/>neſſe upon all their heads
+<hi>19</hi> They ſhall caſt their ſilver into the ſtréets, and their gold ſhall be removed, their ſilver and their gold<pb n="13" facs="tcp:119432:8"/>ſhall not be able to deliuer them in the day of the wrath of the Lord, they ſhall not ſa<g ref="char:EOLhyphen"/>tisfie their ſouls nor fill their bowels, be<g ref="char:EOLhyphen"/>cauſe it is the ſtumbling block of their ini<g ref="char:EOLhyphen"/>quity.
+<note n="o" place="bottom">Mat. 27.6.</note> Becauſe it is the price of blood.
+<note n="p" place="bottom">Amos 2.6.</note> for they haue ſould the righteous for ſiluer, and the poore for a paire of ſhooes.
+<note n="q" place="bottom">Pro. 1.19.</note> So are the ways of euery one that is gréedy of gaine, which take away the liues of the owners thereof.
+<note n="r" place="bottom">Zep. 3.7.</note> I puniſhed them but they roſe early and corrupted all their doings
+<note n="ſ" place="bottom">2 Kin. 17.17.</note> and ſold themſelues to do euill in the ſight of the Lord.
+<note n="t" place="bottom">Pſ. 62 4,9.</note> they delight in lyes, they bleſſe with their mouthes but curſe inwardly: Surely men of low degrée are vanity, and men of high degrée are a lye; To be layd in the bal<g ref="char:EOLhyphen"/>lance they are altogether lighter the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vanity
+<note n="u" place="bottom">Rom. 3.10,11,12 13,15,16,17,18.</note> As it is written there is none righteous no not one. <hi>11</hi> There is none that ſéeketh after God. <hi>12</hi> They are all gone out of the way, they are altogether become unprofit<g ref="char:EOLhyphen"/>able, there is none that doeth good no not one. <hi>13.</hi> Their throate is an open ſepulcher with their tongues haue they uſed deceit, the poyſon of aſpes is under their lips. <hi>15</hi> Their féet are ſwift to ſhed blood. <hi>16</hi> De<g ref="char:EOLhyphen"/>ſtruction and miſery are in their ways. <hi>17</hi> And the way of peace they haue not known. <hi>18</hi> There is no fear of God before their eies.
+<note n="w" place="bottom">1 Tim. 3.1,2,3,4,5.</note> For this know, that in the latter days pe<g ref="char:EOLhyphen"/>rilous,<pb n="14" facs="tcp:119432:9"/>times ſhall come.
+<hi>2</hi> For men ſhall be lovers of their owne ſelves, covetous boaſt<g ref="char:EOLhyphen"/>ers, proud <hi>3</hi> Without natural affection, Co<g ref="char:EOLhyphen"/>venant-breakers, falſe accuſers, incontinent fierce, diſpiſers of thoſe that are good.
+<hi>4</hi> Traitors, heady high minded, lovers of plea<g ref="char:EOLhyphen"/>ſures more then lovers of God. <hi>5</hi> having a forme of godlineſſe but denying the power there of
+<note n="x" place="bottom">Mat. 18.7.</note> For it muſt be that offences come <hi>ſaith our Saviour,</hi> but wo unto them by whom they come,</p>
+            <p>
+               <note n="y" place="bottom">Mat. 23.13,14.</note> 
+               <hi>Therefore,</hi> Wo unto you ſcribes and pha<g ref="char:EOLhyphen"/>riſées hipocrites, for ye ſhut up the Kingdom of Heaven againſt men, for ye neither go in your ſelves, neither ſuffer others, yea, them that are entering to go in. <hi>4</hi> Wo unto you ſcribes, phariſées, hypocrits, for ye devoure widowes houſes, and for pretence make long prayers, therefore ye ſhall receive the great<g ref="char:EOLhyphen"/>er damnation
+<note n="z" place="bottom">Pſ. 10.7.</note> The Lord will abhor the bloody and deceitfull man. Even ſo yee alſo outwardly appeare righteous unto men but within ye are full of hypocriſie, and iniquity.
+<note n="a" place="bottom">Deut. 27.17,18,24.</note>
+               <hi>Therefore</hi> curſed be hee that removeth his neighbours land-mark curſed be he that mak<g ref="char:EOLhyphen"/>eth the blind to wander out of the way curſed be he that ſmiteth his neighbour ſecretly, and all the people ſhall ſay
+<hi>Amen Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Iohn Downame.</signed>
+            </closer>
+            <pb facs="tcp:119432:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
